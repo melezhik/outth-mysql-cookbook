@@ -2,6 +2,6 @@
     "version": "0.0.1",
     "name": "outth-mysql-cookbook",
     "engine": "generic", 
-    "description" => "outthentic tests for opscode mysql cookook",
+    "description" : "outthentic tests for opscode mysql cookook",
     "url": "https://github.com/melezhik/outth-mysql-cookbook.git"
 }
