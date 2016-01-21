@@ -1,4 +1,4 @@
-requires 'Outthentic', '>= 0.0.13';
+requires 'Outthentic', '>= 0.0.14';
 requires 'Net::MySQL';
 
 
