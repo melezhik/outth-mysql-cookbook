@@ -1,5 +1,5 @@
 {
-    "version": "0.0.5",
+    "version": "0.0.7",
     "name": "outth-mysql-cookbook",
     "engine": "generic", 
     "description" : "outthentic tests for opscode mysql cookook",
